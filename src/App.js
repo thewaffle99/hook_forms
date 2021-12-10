@@ -2,7 +2,10 @@ import './App.css';
 import Form from './components/Form'
 function App() {
   return (
-    <p>Hello world</p>
+    <div>
+      <h1>This is a Form Baby</h1>
+      <Form/>
+    </div>
 
   );
 }
